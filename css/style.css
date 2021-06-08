@@ -1,0 +1,13 @@
+body{
+    background-color: gainsboro;
+}
+
+/* box shadow */
+.bx{
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.card-border{
+    box-shadow: 2px 2px 12px rgb(0 0 0 / 20%);
+    border: 0px;
+}
